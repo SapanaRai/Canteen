@@ -1,0 +1,12 @@
+#main{
+    width: 200px;
+    height: 100vh;
+    background-color: rgb(252, 232, 206);
+    margin-left: 5px;
+    padding-left: 8px;
+}
+.app{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(145, 140, 140);
+}
